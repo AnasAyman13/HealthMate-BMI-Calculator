@@ -47,8 +47,40 @@ Built using **Kotlin** and **XML** with modern **Material Design UI**.
 
 ---
 
-
+## 📸 Screenshots  
+_Add your app screenshots here (e.g., `screenshots/` folder)_  
 
 ---
 
 ## 📂 Project Structure  
+```
+HealthMate-BMI-Calculator/
+│── app/
+│   ├── src/main/java/com/bmi/calculator/MainActivity.kt
+│   ├── src/main/res/layout/activity_main.xml
+│   ├── src/main/res/values/strings.xml
+│   └── ...
+│── build.gradle.kts
+│── settings.gradle.kts
+│── README.md
+```
+
+---
+
+## 📦 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/AnasAyman13/HealthMate-BMI-Calculator.git
+   ```
+2. Open in **Android Studio**.  
+3. Build & run on emulator or physical device.  
+
+---
+
+## 🎯 Why This App?  
+Whether you're a **fitness enthusiast** or just tracking your health, HealthMate makes calculating BMI **simple, fast, and user-friendly**.  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – free to use and modify.  
