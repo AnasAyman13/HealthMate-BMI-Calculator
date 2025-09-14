@@ -47,11 +47,6 @@ Built using **Kotlin** and **XML** with modern **Material Design UI**.
 
 ---
 
-## 📸 Screenshots  
-_Add your app screenshots here (e.g., `screenshots/` folder)_  
-
----
-
 ## 📂 Project Structure  
 ```
 HealthMate-BMI-Calculator/
